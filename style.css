@@ -45,3 +45,8 @@ ul {
     border-radius: 15px;
     border-width: 25px;
 }
+#credit {
+    color: ghostwhite;
+    text-align: center;
+    font-family: helvetic;
+}
