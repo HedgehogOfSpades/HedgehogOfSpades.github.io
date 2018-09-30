@@ -2,6 +2,9 @@
 body {
     background-color: hsl(208, 87%, 30%);
 }
+a {
+    color: skyblue;
+}
 .titles {
     color: azure;
     text-align: center;
