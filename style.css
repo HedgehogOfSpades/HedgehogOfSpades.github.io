@@ -5,6 +5,12 @@ body {
 a {
     color: skyblue;
 }
+.colorlist {
+    color: ghostwhite;
+    text-align: center;
+    font-family: helvetic;
+    Font-size: 25px;
+}
 .titles {
     color: azure;
     text-align: center;
