@@ -28,15 +28,9 @@ ul {
 .description {
     Font-size: 20px;
 }
-#theheading {
-    border-style: double;
-    border-color: azure;
-    border-radius: 15px;
-    border-width: 25px;
-}
-#sweet {
+.art {
     display: block;
-    width: 30%;
+    width: 40%;
     height: auto;
     margin-left: auto;
     margin-right: auto;
@@ -44,7 +38,13 @@ ul {
     border-color: azure;
     border-radius: 15px;
     border-width: 25px;
+}#theheading {
+    border-style: double;
+    border-color: azure;
+    border-radius: 15px;
+    border-width: 25px;
 }
+
 #credit {
     color: ghostwhite;
     text-align: center;
