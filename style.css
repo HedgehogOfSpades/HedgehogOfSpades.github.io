@@ -1,0 +1,70 @@
+/* Page by Nicole Sanchez, this file contains all my style elements */
+body {
+    background-color: #135895;
+}
+a {
+    color: skyblue;
+}
+ul {
+    text-align: center;
+    list-style-position: inside;
+}
+.colorlist {
+    color: ghostwhite;
+    text-align: center;
+    font-family: trebuchet ms;
+    Font-size: 25px;
+}
+.titles {
+    color: azure;
+    text-align: center;
+    font-family: trebuchet ms;
+}
+.caption {
+    color: ghostwhite;
+    text-align: center;
+    font-family: trebuchet ms;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.description {
+    Font-size: 20px;
+}
+.art {
+    display: block;
+    width: 40%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: double;
+    border-color: azure;
+    border-radius: 15px;
+    border-width: 25px;
+    background-color: #004080;
+/*}#theheading {
+    border-style: double;
+    border-color: azure;
+    border-radius: 150px;
+    border-width: 25px;*/
+}
+
+#credit {
+    color: ghostwhite;
+    text-align: center;
+    font-family: trebuchet ms;
+}
+#introblock {
+     margin: 25px 400px;
+     border-style: double;
+     border-color: azure;
+     border-radius: 150px;
+     border-width: 25px;
+     background-color: #004080;
+}
+#pfp {
+    display: block;
+    width: 25%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
